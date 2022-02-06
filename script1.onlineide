@@ -1,0 +1,6 @@
+{'id': 'Java', 'speed': 1000, 'withBottomPanel': false ,'withPCode': false ,'withConsole': false ,'withFileList': false ,'withErrorList': false}
+<script type="plain/text" title="Programm.java">
+for(int i = 0; i < 10; i++){
+println("Hello World!");
+}
+</script>
